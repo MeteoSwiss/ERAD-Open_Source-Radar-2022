@@ -1,9 +1,9 @@
-name: openradar2019
+name: openradar2022
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.8
   - cython
   - numpy
   - scipy
