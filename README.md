@@ -1,7 +1,4 @@
-## AMS 2019 Short Course on Community Radar Software
-
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/openradar/AMS-Open-Source-Radar-2019/master)
-
+## ERAD 2022 Short Course on  open radar software
 
 The course will take place on August 28th 2012, right before the [2022 ERAD Radar Conference]([hhttps://cscenter.co.jp/icrm2019/](https://www.erad2022.ch/)). We will introduce the participants to [community software packages](http://openradarscience.org) designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). Following a welcome, there will be an introduction to Open Science concepts and the Open Radar context.
 
